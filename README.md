@@ -37,5 +37,6 @@ To validate a backup file:
 
 ## License
 
-This project is licensed under the GPLv3 License - see the LICENSE file for details.
+This project is licensed under the AGPL-3.0 License - see the LICENSE.md file for details.
+
 
